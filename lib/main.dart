@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
         theme: ThemeData(
           fontFamily: "Test",
-          primarySwatch: Colors.purple,
+          primarySwatch: Colors.red,
         ),
         home: RandomWords());
   }
